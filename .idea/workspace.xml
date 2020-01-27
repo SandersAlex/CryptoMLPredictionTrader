@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795cce64-9953-49f2-9613-8b043c43edad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cryptoCoinsData/currentlyHeldCoins.json" beforeDir="false" afterPath="$PROJECT_DIR$/cryptoCoinsData/currentlyHeldCoins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cryptoCoinsData/heldCoinsHighestPriceRecorded.json" beforeDir="false" afterPath="$PROJECT_DIR$/cryptoCoinsData/heldCoinsHighestPriceRecorded.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cryptoCoinsData/netGainInvested.json" beforeDir="false" afterPath="$PROJECT_DIR$/cryptoCoinsData/netGainInvested.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cryptoCoinsData/pendingList.json" beforeDir="false" afterPath="$PROJECT_DIR$/cryptoCoinsData/pendingList.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cryptoLogs/logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cryptoLogs/logs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crypto_data/BCH_Test_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_data/BCH_Test_Data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crypto_data/BTC_Test_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_data/BTC_Test_Data.csv" afterDir="false" />
@@ -14,7 +11,6 @@
       <change beforePath="$PROJECT_DIR$/crypto_data/ETH_Test_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_data/ETH_Test_Data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crypto_data/LTC_Test_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_data/LTC_Test_Data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crypto_data/XRP_Test_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_data/XRP_Test_Data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategies/Random_Coin_Strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/strategies/Random_Coin_Strategy.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,66 +137,54 @@
     <session id="-1246270014">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="8" />
+          <entry key="project.open.time.3" value="9" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="csv" value="2" />
-          <entry key="json" value="16" />
+          <entry key="json" value="17" />
           <entry key="py" value="2317" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSV" value="2" />
-          <entry key="JSON" value="16" />
+          <entry key="JSON" value="17" />
           <entry key="Python" value="2317" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="43" />
-          <entry key="json" value="30" />
-          <entry key="py" value="41" />
+          <entry key="csv" value="46" />
+          <entry key="json" value="32" />
+          <entry key="py" value="42" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="43" />
-          <entry key="JSON" value="30" />
+          <entry key="CSV" value="46" />
+          <entry key="JSON" value="32" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="41" />
+          <entry key="Python" value="42" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5100">
-              <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/strategies/ML_Strategy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="73" column="35" lean-forward="true" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-4296">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -299,12 +283,12 @@
         <option value="$PROJECT_DIR$/crypto_data/EOS_Test_Data.csv" />
         <option value="$PROJECT_DIR$/crypto_data/BCH_Test_Data.csv" />
         <option value="$PROJECT_DIR$/cryptoCoinsData/currentlyHeldCoins.json" />
-        <option value="$PROJECT_DIR$/cryptoCoinsData/heldCoinsHighestPriceRecorded.json" />
-        <option value="$PROJECT_DIR$/strategies/ML_Strategy.py" />
         <option value="$PROJECT_DIR$/strategies/Percent_Window_Strategy.py" />
         <option value="$PROJECT_DIR$/strategies/Random_Coin_Strategy.py" />
         <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/cryptoCoinsData/heldCoinsHighestPriceRecorded.json" />
         <option value="$PROJECT_DIR$/cryptoCoinsData/pendingList.json" />
+        <option value="$PROJECT_DIR$/strategies/ML_Strategy.py" />
       </list>
     </option>
   </component>
@@ -319,12 +303,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="CryptoMLPredictionTrader" type="b2602c69:ProjectViewProjectNode" />
               <item name="CryptoMLPredictionTrader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CryptoMLPredictionTrader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CryptoMLPredictionTrader" type="462c0819:PsiDirectoryNode" />
+              <item name="crypto_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CryptoMLPredictionTrader" type="b2602c69:ProjectViewProjectNode" />
@@ -340,7 +330,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -441,13 +430,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/apiKeySecretReddit.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cryptoCoinsData/ftp_server_info.json" />
     <entry file="file://$PROJECT_DIR$/cryptoCoinsData/clean.sh" />
     <entry file="file://$PROJECT_DIR$/cryptoLogs/redditPeopleData.txt">
@@ -633,14 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crypto_data/BTC_Test_Data.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
-          <column index="0" width="100" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crypto_data/EOS_Test_Data.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
@@ -704,23 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crypto_data/BCH_Test_Data.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-194">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5100">
-          <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cryptoCoinsData/currentlyHeldCoins.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -735,6 +692,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BTC_Test_Data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/BCH_Test_Data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-483">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cryptoCoinsData/pendingList.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -745,17 +718,36 @@
     <entry file="file://$PROJECT_DIR$/cryptoCoinsData/heldCoinsHighestPriceRecorded.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/BTC_Test_Data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="16">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/strategies/ML_Strategy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="73" column="35" lean-forward="true" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+        <state relative-caret-position="30">
+          <caret line="80" column="32" lean-forward="true" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4296">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
         </state>
       </provider>
     </entry>
