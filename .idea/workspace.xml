@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="795cce64-9953-49f2-9613-8b043c43edad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptoCoinsData/currentlyHeldCoins.json" beforeDir="false" afterPath="$PROJECT_DIR$/cryptoCoinsData/currentlyHeldCoins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptoCoinsData/heldCoinsHighestPriceRecorded.json" beforeDir="false" afterPath="$PROJECT_DIR$/cryptoCoinsData/heldCoinsHighestPriceRecorded.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptoCoinsData/netGainInvested.json" beforeDir="false" afterPath="$PROJECT_DIR$/cryptoCoinsData/netGainInvested.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptoCoinsData/pendingList.json" beforeDir="false" afterPath="$PROJECT_DIR$/cryptoCoinsData/pendingList.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptoLogs/logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cryptoLogs/logs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_data/BCH_Test_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_data/BCH_Test_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_data/BTC_Test_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_data/BTC_Test_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_data/EOS_Test_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_data/EOS_Test_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_data/ETH_Test_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_data/ETH_Test_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_data/LTC_Test_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_data/LTC_Test_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypto_data/XRP_Test_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/crypto_data/XRP_Test_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategies/Random_Coin_Strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/strategies/Random_Coin_Strategy.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="982549754">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="85" />
+          <entry key="data-00000-of-00001" value="1" />
+          <entry key="index" value="5" />
+          <entry key="json" value="69" />
+          <entry key="mlHeldCoinRecordPrice" value="1" />
+          <entry key="pb" value="1" />
+          <entry key="py" value="270" />
+          <entry key="sh" value="3" />
+          <entry key="txt" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="3" />
+          <entry key="CSV" value="59" />
+          <entry key="JSON" value="70" />
+          <entry key="PLAIN_TEXT" value="81" />
+          <entry key="Python" value="270" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="12" />
+          <entry key="csv" value="410" />
+          <entry key="dummy" value="141" />
+          <entry key="json" value="59" />
+          <entry key="mlHeldCoinRecordPrice" value="2" />
+          <entry key="py" value="10981" />
+          <entry key="sh" value="2" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="2" />
+          <entry key="CSV" value="2" />
+          <entry key="JSON" value="61" />
+          <entry key="PLAIN_TEXT" value="551" />
+          <entry key="Python" value="10993" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-865584171">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="1" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="547407859">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="7" />
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="7" />
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1246270014">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="8" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="csv" value="2" />
+          <entry key="json" value="16" />
+          <entry key="py" value="2317" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="2" />
+          <entry key="JSON" value="16" />
+          <entry key="Python" value="2317" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="43" />
+          <entry key="json" value="30" />
+          <entry key="py" value="41" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="43" />
+          <entry key="JSON" value="30" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="41" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5100">
+              <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/strategies/ML_Strategy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="73" column="35" lean-forward="true" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>coin</find>
+      <find>df</find>
+      <find>print_and_write_to_logfile</find>
+      <find>gatheredCryptoData</find>
+      <find>mainData</find>
+      <find>TARGET</find>
+      <find>classif</find>
+      <find>classify</find>
+      <find>times</find>
+      <find>sells</find>
+      <find>-</find>
+      <find>RNN</find>
+      <find>NAME</find>
+      <find>preprocess_dataframe</find>
+      <find>24</find>
+      <find>get_second_market_coin</find>
+      <find>initialize_percent_strat</find>
+      <find>bitcoin_to_use</find>
+      <find>run_random_strat</find>
+      <find>initialize_buy_low_sell_high_strat</find>
+      <find>slots_open</find>
+      <find>run_buy_low_sell_high_strat</find>
+      <find>#</find>
+      <find>model</find>
+      <find>csv.writer</find>
+      <find>ratios</find>
+      <find>ratio</find>
+      <find>logs/</find>
+      <find>MLStrategy</find>
+      <find>PWStrategy</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/strategies/clean.sh" />
+        <option value="$PROJECT_DIR$/strategies/secrets.json" />
+        <option value="$PROJECT_DIR$/strategies/reddit_top_coins.json" />
+        <option value="$PROJECT_DIR$/strategies/reddit_info.txt" />
+        <option value="$PROJECT_DIR$/strategies/reddit_coins.json" />
+        <option value="$PROJECT_DIR$/strategies/pending_orders.json" />
+        <option value="$PROJECT_DIR$/strategies/keltner_coins.json" />
+        <option value="$PROJECT_DIR$/strategies/logs_to_send.txt" />
+        <option value="$PROJECT_DIR$/strategies/email_info.json" />
+        <option value="$PROJECT_DIR$/Bittrex3.py" />
+        <option value="$PROJECT_DIR$/strategies/global_return.json" />
+        <option value="$PROJECT_DIR$/strategies/Keltner_strat.py" />
+        <option value="$PROJECT_DIR$/strategies/Random_strat.py" />
+        <option value="$PROJECT_DIR$/strategies/Reddit_strat.py" />
+        <option value="$PROJECT_DIR$/strategies/Buy_Low_sell_high_strat.py" />
+        <option value="$PROJECT_DIR$/strategies/Hold_strat.py" />
+        <option value="$PROJECT_DIR$/strategies/Percent_strat.py" />
+        <option value="$PROJECT_DIR$/cryptoLogs/logs.txt" />
+        <option value="$PROJECT_DIR$/cryptoCoinsData/apiKeySecretReddit.json" />
+        <option value="$PROJECT_DIR$/cryptoCoinsData/coinRedditData.json" />
+        <option value="$PROJECT_DIR$/cryptoLogs/redditPeopleData.txt" />
+        <option value="$PROJECT_DIR$/strategies/RedditGatherData.py" />
+        <option value="$PROJECT_DIR$/crypto_data/BCH-USD.csv" />
+        <option value="$PROJECT_DIR$/trainSecondStrat.py" />
+        <option value="$PROJECT_DIR$/cryptoCoinsData/mlHeldCoinRecordPrice" />
+        <option value="$PROJECT_DIR$/cryptoCoinsData/mlHeldCoinRecordPrice.json" />
+        <option value="$PROJECT_DIR$/crypto_data/EOS_data.csv" />
+        <option value="$PROJECT_DIR$/crypto_data/ETH_data.csv" />
+        <option value="$PROJECT_DIR$/crypto_data/LTC_data.csv" />
+        <option value="$PROJECT_DIR$/crypto_data/BCH_data.csv" />
+        <option value="$PROJECT_DIR$/crypto_data/XRP_data.csv" />
+        <option value="$PROJECT_DIR$/crypto_data/BTC_data.csv" />
+        <option value="$PROJECT_DIR$/Utils.py" />
+        <option value="$PROJECT_DIR$/strategies/Keltner_Channel_Strategy.py" />
+        <option value="$PROJECT_DIR$/strategies/Hold_Until_Strategy.py" />
+        <option value="$PROJECT_DIR$/strategies/Top_Reddit_Strategy.py" />
+        <option value="$PROJECT_DIR$/cryptoCoinsData/coinRedditDataTopTen.json" />
+        <option value="$PROJECT_DIR$/trainModel.py" />
+        <option value="$PROJECT_DIR$/crypto_data/XRP_Test_Data.csv" />
+        <option value="$PROJECT_DIR$/crypto_data/BTC_Test_Data.csv" />
+        <option value="$PROJECT_DIR$/crypto_data/ETH_Test_Data.csv" />
+        <option value="$PROJECT_DIR$/crypto_data/LTC_Test_Data.csv" />
+        <option value="$PROJECT_DIR$/crypto_data/EOS_Test_Data.csv" />
+        <option value="$PROJECT_DIR$/crypto_data/BCH_Test_Data.csv" />
+        <option value="$PROJECT_DIR$/cryptoCoinsData/currentlyHeldCoins.json" />
+        <option value="$PROJECT_DIR$/cryptoCoinsData/heldCoinsHighestPriceRecorded.json" />
+        <option value="$PROJECT_DIR$/strategies/ML_Strategy.py" />
+        <option value="$PROJECT_DIR$/strategies/Percent_Window_Strategy.py" />
+        <option value="$PROJECT_DIR$/strategies/Random_Coin_Strategy.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/cryptoCoinsData/pendingList.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CryptoMLPredictionTrader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CryptoMLPredictionTrader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CryptoMLPredictionTrader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CryptoMLPredictionTrader" type="462c0819:PsiDirectoryNode" />
+              <item name="cryptoCoinsData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CryptoMLPredictionTrader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CryptoMLPredictionTrader" type="462c0819:PsiDirectoryNode" />
+              <item name="strategies" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="email_info.json&#9;FILE&#9;file:///Users/davidwoo/Desktop/CryptoMLPrediction/strategies/email_info.json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cryptoLogs" />
+      <recent name="$PROJECT_DIR$/jsonFiles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/crypto_data" />
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/strategies" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="795cce64-9953-49f2-9613-8b043c43edad" name="Default Changelist" comment="" />
+      <created>1576250003475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576250003475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858758" visible="true" weight="0.19777602" />
+      <window_info id="Structure" order="1" sideWeight="0.50141245" side_tool="true" weight="0.19539317" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32344633" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49245432" weight="0.4218978" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50754565" side_tool="true" weight="0.34322035" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32909605" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858758" visible="true" weight="0.19539317" />
+      <window_info id="Structure" order="1" sideWeight="0.50141245" side_tool="true" weight="0.19539317" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32344633" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4932486" weight="0.5" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5067514" side_tool="true" weight="0.22457626" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32909605" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/apiKeySecretReddit.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/ftp_server_info.json" />
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/clean.sh" />
+    <entry file="file://$PROJECT_DIR$/cryptoLogs/redditPeopleData.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="135" column="49" lean-forward="true" selection-start-line="135" selection-start-column="49" selection-end-line="135" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/BCH-USD.csv" />
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/mlHeldCoinRecordPrice" />
+    <entry file="file://$PROJECT_DIR$/models/RNN_Final-05-0.500-LTC_data.model/variables/variables.index" />
+    <entry file="file://$PROJECT_DIR$/models/RNN_Final-05-0.500-EOS_data.model/variables/variables.index" />
+    <entry file="file://$PROJECT_DIR$/models/RNN_Final-05-0.500-XRP_data.model/variables/variables.index" />
+    <entry file="file://$PROJECT_DIR$/models/RNN_Final-05-0.500-ETH_data.model/variables/variables.index" />
+    <entry file="file://$PROJECT_DIR$/crypto_data/BCH_data.txt" />
+    <entry file="file://$PROJECT_DIR$/crypto_data/XRP_data.txt" />
+    <entry file="file://$PROJECT_DIR$/crypto_data/EOS_data.txt" />
+    <entry file="file://$PROJECT_DIR$/crypto_data/BTC_data.txt" />
+    <entry file="file://$PROJECT_DIR$/crypto_data/LTC_data.txt" />
+    <entry file="file://$PROJECT_DIR$/crypto_data/ETH_data.txt" />
+    <entry file="file://$PROJECT_DIR$/crypto_data/LTC_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="624">
+          <caret line="9975" lean-forward="true" selection-start-line="9975" selection-end-line="9975" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="1375" selection-start-line="1375" selection-end-line="1375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/XRP_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="624">
+          <caret line="9975" selection-start-line="9975" selection-end-line="9975" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="1375" lean-forward="true" selection-start-line="1375" selection-end-line="1375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/ETH_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="624">
+          <caret line="9975" selection-start-line="9975" selection-end-line="9975" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="1375" lean-forward="true" selection-start-line="1375" selection-end-line="1375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/EOS_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="564">
+          <caret line="9975" selection-start-line="9975" selection-end-line="9975" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="1375" lean-forward="true" selection-start-line="1375" selection-end-line="1375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainSecondStrat.py" />
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/coinRedditData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5489">
+          <caret line="1258" column="19" lean-forward="true" selection-start-line="1258" selection-start-column="19" selection-end-line="1258" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategies/Keltner_Channel_Strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="216" column="30" selection-start-line="216" selection-start-column="20" selection-end-line="216" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bittrex3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="105" column="15" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/coinRedditDataTopTen.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/BTC_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="475">
+          <caret line="9975" selection-start-line="9975" selection-end-line="9975" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="1375" lean-forward="true" selection-start-line="1375" selection-end-line="1375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategies/RedditGatherData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" column="39" lean-forward="true" selection-start-line="113" selection-start-column="39" selection-end-line="113" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategies/Top_Reddit_Strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/keltnerLowerBound.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategies/Hold_Until_Strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="43" column="109" selection-start-line="43" selection-start-column="97" selection-end-line="43" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/mlHeldCoinRecordPrice.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptoLogs/logs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228000">
+          <caret line="15200" column="37" selection-start-line="15200" selection-start-column="37" selection-end-line="15200" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="131" column="43" selection-start-line="131" selection-start-column="43" selection-end-line="131" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/BCH_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="177">
+          <caret line="9975" selection-start-line="9975" selection-end-line="9975" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="1342" column="36" lean-forward="true" selection-start-line="1342" selection-start-column="36" selection-end-line="1342" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/BTC_Test_Data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/EOS_Test_Data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/ETH_Test_Data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/LTC_Test_Data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/XRP_Test_Data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-220">
+          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/apiKeySecret.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="247" column="21" selection-start-line="247" selection-start-column="21" selection-end-line="247" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategies/Percent_Window_Strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategies/Random_Coin_Strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto_data/BCH_Test_Data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-194">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5100">
+          <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/currentlyHeldCoins.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/netGainInvested.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/pendingList.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cryptoCoinsData/heldCoinsHighestPriceRecorded.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategies/ML_Strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="73" column="35" lean-forward="true" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

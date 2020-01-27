@@ -20,7 +20,6 @@ class RandomStrat:
         coins_pending_buy = [market for market in self.pending_orders['Buying']]
         coins_pending_sell = [market for market in self.pending_orders['Selling']]
 
-        # slots_open = 1;
         print("total bitcoin: " + str(total_bitcoin))
 
 

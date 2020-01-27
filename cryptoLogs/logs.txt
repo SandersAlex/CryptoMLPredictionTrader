@@ -15315,3 +15315,219 @@ Time: 23:17:55 1/4/2020
 
 Buy order of1.4384923387059487ofBTC-EOS successful
 
+
+** Run Start At: 21:29:13 1/26/2020 **
+
+
+Buy order: 1.4384923387059487 of BTC-EOS Processed Successfully UUID: 27326932-5df5-4c9a-843c-ac2ed64b8ed6 21:29:14 1/26/2020
+
+Buy order of 35.287712665406424 BTC-XRP did not go through: NOT_ALLOWED
+
+Buy order of35.287712665406424ofBTC-XRP unsuccessful
+
+Buy order of 35.287712665406424 BTC-XRP did not go through: NOT_ALLOWED
+
+Buy order of35.287712665406424ofBTC-XRP unsuccessful
+
+Buy order of 35.287712665406424 BTC-XRP did not go through: NOT_ALLOWED
+
+Buy order of35.287712665406424ofBTC-XRP unsuccessful
+
+
+** Run Start At: 21:36:46 1/26/2020 **
+
+
+Buy order of 35.287712665406424 BTC-XRP did not go through: NOT_ALLOWED
+
+Buy order of35.287712665406424ofBTC-XRP unsuccessful
+
+Buy order of 35.221132075471694 BTC-XRP did not go through: NOT_ALLOWED
+
+Buy order of35.221132075471694ofBTC-XRP unsuccessful
+
+Buy order of 35.221132075471694 BTC-XRP did not go through: NOT_ALLOWED
+
+Buy order of35.221132075471694ofBTC-XRP unsuccessful
+
+
+** Run Start At: 21:44:59 1/26/2020 **
+
+
+Order less than 50k satoshi (~$2). Attempted to use: $1.9188829792171425, BTC: 0.0002222285714285714
+
+
+** Run Start At: 21:51:18 1/26/2020 **
+
+
+Buy order of 0.04832329014217513 BTC-ETH did not go through: NOT_ALLOWED
+
+Buy order of0.04832329014217513ofBTC-ETH unsuccessful
+
+Buy order of 0.04831686120549885 BTC-ETH did not go through: NOT_ALLOWED
+
+Buy order of0.04831686120549885ofBTC-ETH unsuccessful
+
+
+** Run Start At: 22:5:56 1/26/2020 **
+
+
+Buy order of 2.673439959263031 BTC-EOS did not go through: NOT_ALLOWED
+
+
+** Run Start At: 22:12:1 1/26/2020 **
+
+
+Buy order of 2.673439959263031 BTC-EOS did not go through: NOT_ALLOWED
+
+Buy order of 2.673439959263031 BTC-EOS did not go through: NOT_ALLOWED
+
+
+** Run Start At: 22:24:2 1/26/2020 **
+
+
+Order less than 50k satoshi (~$2). Attempted to use: $2.4940309934925, BTC: 0.00028875825
+
+
+** Run Start At: 22:25:20 1/26/2020 **
+
+
+BUYING
+BTC-ETH
+24h%: 0.6499839702888212
+USD: $167.0238607334
+BTC: 0.01933921
+Amount: 0.048262571221885486
+Total Paid: $8.081153476836
+1hr%: 0
+Time: 22:25:56 1/26/2020
+
+Buy order of0.048262571221885486ofBTC-ETH successful
+
+
+** Run Start At: 10:23:25 1/27/2020 **
+
+
+
+** Run Start At: 10:24:53 1/27/2020 **
+
+
+BUYING
+BTC-XRP
+24h%: -0.4165088981446446
+USD: $0.230575256
+BTC: 2.63e-05
+Amount: 35.29551330798479
+Total Paid: $8.1586176966816
+1hr%: 0
+Time: 10:25:44 1/27/2020
+
+Buy order of35.29551330798479ofBTC-XRP successful
+
+
+** Run Start At: 10:28:27 1/27/2020 **
+
+
+
+** Run Start At: 10:30:56 1/27/2020 **
+
+
+BUYING
+BTC-MER
+24h%: -3.333333333333337
+USD: $0.002540467193
+BTC: 2.9e-07
+Amount: 3200.937931034483
+Total Paid: $8.152207495123955
+1hr%: 0
+Time: 10:30:58 1/27/2020
+
+Buy order of3200.937931034483ofBTC-MERsuccessful
+
+Buy order of 12.120015667841754 BTC-ONT did not go through: RESTRICTED_MARKET
+
+Buy order of12.120015667841754ofBTC-ONTUnsuccessful
+
+Buy order of 1547.12 BTC-ZIL did not go through: RESTRICTED_MARKET
+
+Buy order of1547.12ofBTC-ZILUnsuccessful
+
+Buy order of 0.003904403785488959 USD-ZRX did not go through: MIN_TRADE_REQUIREMENT_NOT_MET
+
+Buy order of0.003904403785488959ofUSD-ZRXUnsuccessful
+
+Buy order of 0.00023513111177588236 USD-EOS did not go through: MIN_TRADE_REQUIREMENT_NOT_MET
+
+Buy order of0.00023513111177588236ofUSD-EOSUnsuccessful
+
+Buy order of 372.8 BTC-CVC did not go through: RESTRICTED_MARKET
+
+Buy order of372.8ofBTC-CVCUnsuccessful
+
+Buy order of 18565.44 BTC-BTT did not go through: RESTRICTED_MARKET
+
+Buy order of18565.44ofBTC-BTTUnsuccessful
+
+Buy order of 6.7042611584573155 BTC-PROM did not go through: MIN_TRADE_REQUIREMENT_NOT_MET
+
+Buy order of6.7042611584573155ofBTC-PROMUnsuccessful
+
+Buy order of 2.0489394106610748 BTC-EOS did not go through: INSUFFICIENT_FUNDS
+
+Buy order of2.0489394106610748ofBTC-EOSUnsuccessful
+
+Buy order of 875.7283018867923 BTC-STPT did not go through: RESTRICTED_MARKET
+
+Buy order of875.7283018867923ofBTC-STPTUnsuccessful
+
+Buy order of 10.484210526315788 BTC-LSK did not go through: INSUFFICIENT_FUNDS
+
+Buy order of10.484210526315788ofBTC-LSKUnsuccessful
+
+Buy order of 11.826627595872084 BTC-PART did not go through: RESTRICTED_MARKET
+
+Buy order of11.826627595872084ofBTC-PARTUnsuccessful
+
+Buy order of 176.8137142857143 BTC-EXCL did not go through: INSUFFICIENT_FUNDS
+
+Buy order of176.8137142857143ofBTC-EXCLUnsuccessful
+
+Buy order of 202.23790849673202 BTC-XEM did not go through: INSUFFICIENT_FUNDS
+
+Buy order of202.23790849673202ofBTC-XEMUnsuccessful
+
+Buy order of 0.022064955121194524 BTC-BCH did not go through: INSUFFICIENT_FUNDS
+
+Buy order of0.022064955121194524ofBTC-BCHUnsuccessful
+
+Buy order of 59.0879694462126 BTC-DMT did not go through: RESTRICTED_MARKET
+
+Buy order of59.0879694462126ofBTC-DMTUnsuccessful
+
+Buy order of 8438.836363636363 BTC-AKRO did not go through: RESTRICTED_MARKET
+
+Buy order of8438.836363636363ofBTC-AKROUnsuccessful
+
+Buy order of 29.478310574785645 BTC-PIVX did not go through: INSUFFICIENT_FUNDS
+
+Buy order of29.478310574785645ofBTC-PIVXUnsuccessful
+
+Buy order of 72.18289269051321 BTC-SOLVE did not go through: INSUFFICIENT_FUNDS
+
+Buy order of72.18289269051321ofBTC-SOLVEUnsuccessful
+
+Buy order of 55.287194758784985 BTC-BTU did not go through: RESTRICTED_MARKET
+
+Buy order of55.287194758784985ofBTC-BTUUnsuccessful
+
+Buy order of 1.5292784184514003 BTC-XZC did not go through: INSUFFICIENT_FUNDS
+
+Buy order of1.5292784184514003ofBTC-XZCUnsuccessful
+
+Buy order of 1856.544 BTC-XSR did not go through: RESTRICTED_MARKET
+
+Buy order of1856.544ofBTC-XSRUnsuccessful
+
+Buy order of 0.003904403785488959 USD-ZRX did not go through: MIN_TRADE_REQUIREMENT_NOT_MET
+
+Buy order of0.003904403785488959ofUSD-ZRXUnsuccessful
+

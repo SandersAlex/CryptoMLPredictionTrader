@@ -1,17 +1,4 @@
 {
-    "Buying": {
-        "BTC-EOS": {
-            "amount": 1.4384923387059487,
-            "desired_gain": 0,
-            "high_bar": 0,
-            "highest_24h_change": 0.058291234108699186,
-            "market": "BTC-EOS",
-            "original_24h_change": 0.058291234108699186,
-            "price_bought": 0.00036047,
-            "sell_threshold": 5,
-            "total_paid": 3.8781944264633337,
-            "uuid": "27326932-5df5-4c9a-843c-ac2ed64b8ed6"
-        }
-    },
+    "Buying": {},
     "Selling": {}
 }
