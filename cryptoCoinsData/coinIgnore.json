@@ -1,0 +1,5 @@
+{
+  "established_coins":  ["ETH", "BTC", "LTC","OMG","NEO", "FCT", "XRP"],
+  "coins_with_common_names" : ["GAME", "1ST","TIME", "START", "OMG", "RISE", "PAY", "STRAT","FUN","TRUST", "SHIFT", "BURST", "WAVES", "FAIR", "CLUB", "MEME", "ETC", "PART"],
+  "coins_already_profited_on" :[]
+}

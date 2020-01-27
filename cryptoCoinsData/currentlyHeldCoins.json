@@ -1,0 +1,38 @@
+{
+    "BTC-BCH": {
+        "amount": 0.030768419317619908,
+        "desired_gain": 0,
+        "high_bar": 0,
+        "highest_24h_change": 7.342533616418968,
+        "market": "BTC-BCH",
+        "original_24h_change": 7.342533616418968,
+        "price_bought": 0.030335,
+        "sell_threshold": 5,
+        "total_paid": 6.877004961909,
+        "uuid": "04e490bd-c6b8-4db9-9a98-798367a14320"
+    },
+    "BTC-ETH": {
+        "amount": 0.05127314916544347,
+        "desired_gain": 0,
+        "high_bar": 0,
+        "highest_24h_change": 1.573683226711821,
+        "market": "BTC-ETH",
+        "original_24h_change": 1.573683226711821,
+        "price_bought": 0.01820368,
+        "sell_threshold": 5,
+        "total_paid": 6.88150255937478,
+        "uuid": "0c1e71e3-368f-454e-aa39-f7d7c4934213"
+    },
+    "BTC-LTC": {
+        "amount": 0.1676089237009581,
+        "desired_gain": 0,
+        "high_bar": 0,
+        "highest_24h_change": 1.9545628748919366,
+        "market": "BTC-LTC",
+        "original_24h_change": 1.9545628748919366,
+        "price_bought": 0.0057196,
+        "sell_threshold": 5,
+        "total_paid": 7.0620742829328,
+        "uuid": "9049689c-8a31-4858-b42f-6337f59810e1"
+    }
+}

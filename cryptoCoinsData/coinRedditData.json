@@ -1,0 +1,2287 @@
+{
+    "1ST": {
+        "full_name": "FirstBlood",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ABYSS": {
+        "full_name": "Abyss",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ADA": {
+        "full_name": "Cardano",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ADT": {
+        "full_name": "adToken",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ADX": {
+        "full_name": "AdEx",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "AEON": {
+        "full_name": "Aeon",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "AERGO": {
+        "full_name": "Aergo",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "AID": {
+        "full_name": "AidCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "AKRO": {
+        "full_name": "Akropolis",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ANKR": {
+        "full_name": "Ankr",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ANT": {
+        "full_name": "Aragon",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "APIX": {
+        "full_name": "APIX",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "APM": {
+        "full_name": "APM Coin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ARDR": {
+        "full_name": "Ardor",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ARK": {
+        "full_name": "Ark",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ART": {
+        "full_name": "Maecenas",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ATOM": {
+        "full_name": "Cosmos",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BAT": {
+        "full_name": "Basic Attention Token",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BCH": {
+        "full_name": "Bitcoin Cash (ABC)",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BFT": {
+        "full_name": "BnkToTheFuture",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BKX": {
+        "full_name": "Bankex",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BLK": {
+        "full_name": "BlackCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BLOC": {
+        "full_name": "Blockcloud",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BLOCK": {
+        "full_name": "Blocknet",
+        "mentioned_ids": [
+            "fcv5grb"
+        ],
+        "mentioned_times": [
+            1578023839.0
+        ],
+        "sentiments": [
+            0.03333333333333334
+        ],
+        "text": [
+            "I wonder if we'll ever see a decentralized APP marketplace for mobile phones? With nodes (users) being able to flag harmful content, and possibly be rewarded for it. This would eliminate Google's monopoly.   \nSame as Decentralized Exchanges like Blocknet who could theoretically out compete a lot of exchanges in the future, like Polo, Bittrex etc, IF enough people decided to do move their trading habbits over there.   \n\n\nSorry about my rant, just thinking out loud here, haha"
+        ],
+        "upvotes": [
+            11
+        ]
+    },
+    "BLTV": {
+        "full_name": "BlockTV",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BNT": {
+        "full_name": "Bancor",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BORA": {
+        "full_name": "BORA",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BRZ": {
+        "full_name": "BRZ Token",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BSV": {
+        "full_name": "Bitcoin SV",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BTM": {
+        "full_name": "Bytom",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BTS": {
+        "full_name": "BitShares",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BTT": {
+        "full_name": "BitTorrent",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BTU": {
+        "full_name": "BTU Protocol",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BURST": {
+        "full_name": "BURSTCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "BWX": {
+        "full_name": "Blue Whale eXchange",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "CHR": {
+        "full_name": "Chromia",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "CMCT": {
+        "full_name": "Crowd Machine",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "CND": {
+        "full_name": "Cindicator",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "COSM": {
+        "full_name": "CosmoCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "CPT": {
+        "full_name": "Contents Protocol",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "CRO": {
+        "full_name": "Crypto.com Coin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "CRW": {
+        "full_name": "Crown",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "CTXC": {
+        "full_name": "Cortex",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "CURE": {
+        "full_name": "CureCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "CVC": {
+        "full_name": "Civic",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "DAI": {
+        "full_name": "DAI",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "DASH": {
+        "full_name": "Dash",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "DCR": {
+        "full_name": "Decred",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "DCT": {
+        "full_name": "DECENT",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "DENT": {
+        "full_name": "Dent",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "DGB": {
+        "full_name": "DigiByte",
+        "mentioned_ids": [
+            "fcw1vnr"
+        ],
+        "mentioned_times": [
+            1578044021.0
+        ],
+        "sentiments": [
+            0.7
+        ],
+        "text": [
+            "Is digibyte any good? I keep seeing people talk about it."
+        ],
+        "upvotes": [
+            -9
+        ]
+    },
+    "DMT": {
+        "full_name": "DMarket",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "DNT": {
+        "full_name": "district0x",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "DOGE": {
+        "full_name": "Dogecoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "DRGN": {
+        "full_name": "Dragonchain",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "DTA": {
+        "full_name": "Data",
+        "mentioned_ids": [
+            "fcw4szf",
+            "ej6asc",
+            "ej1d6e"
+        ],
+        "mentioned_times": [
+            1578045954.0,
+            1578036454.0,
+            1578015709.0
+        ],
+        "sentiments": [
+            0.36250000000000004,
+            0.0,
+            0.0
+        ],
+        "text": [
+            "The source of the data included in reports is TravelbyBit. So if TravelbyBit cannot even get straight within themselves what their data is, this is not making the company look very competent.\n\nTravelbyBit has a recorded history of manipulating their own data as seen here. \nSo it would not surprise me if they've done the same here again. http://web.archive.org/web/20180804084701/https://coingeek.com/bitcoin-bch-spent-cryptocurrency-australias-crypto-friendly-airport/",
+            "Streamr is building the open source infrastructure for anyone to distribute & trade information in a real-time data economy. Discover the pub/sub messaging Network, data Marketplace, & Streamr Core app today",
+            "Getting started with Coygo's cryptocurrency market data tools"
+        ],
+        "upvotes": [
+            -2,
+            1,
+            0
+        ]
+    },
+    "DUSK": {
+        "full_name": "Dusk Network",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "EDG": {
+        "full_name": "Edgeless",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "EDR": {
+        "full_name": "Endor",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ELF": {
+        "full_name": "aelf",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "EMC2": {
+        "full_name": "Einsteinium",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ENG": {
+        "full_name": "Enigma",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ENJ": {
+        "full_name": "Enjin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "EOS": {
+        "full_name": "EOS",
+        "mentioned_ids": [
+            "fcvqjub"
+        ],
+        "mentioned_times": [
+            1578036648.0
+        ],
+        "sentiments": [
+            0.12878787878787878
+        ],
+        "text": [
+            "Reminds me of how I've gotten banned (silenced) from r/Metamask for \"spreading fud\" and what not. Happened both times I commented there, first time re having lost my eos and second time sharing my experience.. Not that I can't live without it but yeah, I think it smells over there, too."
+        ],
+        "upvotes": [
+            -1
+        ]
+    },
+    "ETC": {
+        "full_name": "Ethereum Classic",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ETH": {
+        "full_name": "Ethereum",
+        "mentioned_ids": [
+            "fcvtbki",
+            "fcw6r9u",
+            "fcwob02",
+            "ej6tmg"
+        ],
+        "mentioned_times": [
+            1578038429.0,
+            1578047239.0,
+            1578060262.0,
+            1578038710.0
+        ],
+        "sentiments": [
+            0.11666666666666667,
+            -0.32999999999999996,
+            -0.09722222222222221,
+            0.0
+        ],
+        "text": [
+            "I figured most crypto claims about actual transactions in e-commerce would be fraudulent.\n\nLet's not kid ourselves, no one is using this shit.\n\nAnd who even uses Bee-Cash for anything these days? Isn't this avandonware trash sort of like Litecoin and Ethereum Classic?",
+            "If you want a centralized solution, you could just implement an e-mail dead man switch using this service:  [https://www.deadmansswitch.net/](https://www.deadmansswitch.net/) \n\nBut, since this is a crypto subreddit and we value decentralization, the only prototype I've seen lately is Killcord [https://github.com/nomasters/killcord](https://github.com/nomasters/killcord).  It uses Ethereum and IPFS to store a secret, and release it if the owner doesn't check in",
+            "I'm taking my Bitcoin with me. They recognize only Bitcoin in heaven. Ethereum users can use their coins in the other place  \nI'll be buying all the bling for my angel wings  \n\n> stored on google drive\n\nUnsafe to rely on Google not to lose your files  \n\n> hidden microsd file\n\nFlash memory is unreliable",
+            "Coinbase Patents = Evil? | Bitcoin Credit Card | MetaMask Wins! | Ethereum Fork | Much More!"
+        ],
+        "upvotes": [
+            11,
+            3,
+            1,
+            0
+        ]
+    },
+    "EXCL": {
+        "full_name": "ExclusiveCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "EXP": {
+        "full_name": "Expanse",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "FCT": {
+        "full_name": "Factom",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "FLDC": {
+        "full_name": "FoldingCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "FLETA": {
+        "full_name": "FLETA",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "FLO": {
+        "full_name": "FLO",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "FNB": {
+        "full_name": "FNB",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "FSN": {
+        "full_name": "Fusion",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "FTC": {
+        "full_name": "Feathercoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "FX": {
+        "full_name": "Function X",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "FXC": {
+        "full_name": "Flexacoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "GAME": {
+        "full_name": "GameCredits",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "GBYTE": {
+        "full_name": "Bytes",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "GEO": {
+        "full_name": "GeoCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "GNO": {
+        "full_name": "Gnosis",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "GNT": {
+        "full_name": "Golem",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "GO": {
+        "full_name": "GoChain",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "GRIN": {
+        "full_name": "Grin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "GRS": {
+        "full_name": "Groestlcoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "GTO": {
+        "full_name": "Gifto",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "GUP": {
+        "full_name": "Guppy",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "HBAR": {
+        "full_name": "Hedera Hashgraph",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "HDAC": {
+        "full_name": "Hdac",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "HEDG": {
+        "full_name": "HedgeTrade",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "HMQ": {
+        "full_name": "Humaniq",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "HXRO": {
+        "full_name": "Hxro",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "HYC": {
+        "full_name": "Hycon",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "HYDRO": {
+        "full_name": "Hydro",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "IGNIS": {
+        "full_name": "Ignis",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "IHT": {
+        "full_name": "I-House Token",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "INCNT": {
+        "full_name": "Incent",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "IOC": {
+        "full_name": "I/OCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ION": {
+        "full_name": "Ion",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "IOST": {
+        "full_name": "IOST",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "IOTX": {
+        "full_name": "IoTeX",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "JNT": {
+        "full_name": "Jibrel",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "KMD": {
+        "full_name": "Komodo",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "LAMB": {
+        "full_name": "Lambda",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "LBA": {
+        "full_name": "Cred",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "LBC": {
+        "full_name": "LBRY Credits",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "LINK": {
+        "full_name": "Chainlink",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "LOOM": {
+        "full_name": "Loom Network",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "LRC": {
+        "full_name": "Loopring",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "LSK": {
+        "full_name": "Lisk",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "LTC": {
+        "full_name": "Litecoin",
+        "mentioned_ids": [
+            "fcvtbki"
+        ],
+        "mentioned_times": [
+            1578038429.0
+        ],
+        "sentiments": [
+            0.11666666666666667
+        ],
+        "text": [
+            "I figured most crypto claims about actual transactions in e-commerce would be fraudulent.\n\nLet's not kid ourselves, no one is using this shit.\n\nAnd who even uses Bee-Cash for anything these days? Isn't this avandonware trash sort of like Litecoin and Ethereum Classic?"
+        ],
+        "upvotes": [
+            11
+        ]
+    },
+    "LUNA": {
+        "full_name": "Luna",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MAID": {
+        "full_name": "MaidSafeCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MANA": {
+        "full_name": "Decentraland",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MCO": {
+        "full_name": "MCO",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MED": {
+        "full_name": "MediBloc",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MEME": {
+        "full_name": "Memetic",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MER": {
+        "full_name": "Mercury",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MET": {
+        "full_name": "Metronome",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "META": {
+        "full_name": "Metadium",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MFT": {
+        "full_name": "Mainframe",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MKR": {
+        "full_name": "Maker",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MOC": {
+        "full_name": "Mossland",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MONA": {
+        "full_name": "MonaCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MORE": {
+        "full_name": "More",
+        "mentioned_ids": [
+            "fcx4994",
+            "fcvwyj6",
+            "eiy212",
+            "fcwosch",
+            "fcwr3wg",
+            "fcutls9",
+            "fcvjfuf",
+            "fcv2l9n",
+            "fcup7ke",
+            "fcv3xu7"
+        ],
+        "mentioned_times": [
+            1578079354.0,
+            1578040784.0,
+            1577999449.0,
+            1578060732.0,
+            1578063090.0,
+            1578017039.0,
+            1578032182.0,
+            1578022143.0,
+            1578014534.0,
+            1578022943.0
+        ],
+        "sentiments": [
+            0.12333333333333334,
+            0.45,
+            0.16666666666666666,
+            0.1537037037037037,
+            0.15625,
+            0.19583333333333336,
+            0.21363636363636365,
+            -0.1203125,
+            -0.11615384615384614,
+            0.14884615384615385
+        ],
+        "text": [
+            "r/btc is one of the most infuriating subs on the whore of Reddit\n\nI had an almost ten year old account, which had never been banned from any sub. until I started asking questions in r/btc. \n\nended up getting banned there pretty quickly for asking some simple questions and not conforming to the general consensus. \n\nI wanted to know more about BCH before taking the dive and investing. but after spending time on the sub it became clear that it's just a scam.",
+            "Bwahahahahhaa   I enjoy this more than I should.  F Roger.",
+            "From Skeptical To Bitcoiner: The 7-Steps Journey Followed By More And More People",
+            "Unsustainable wasted energy.  The networks really works no better than it did when hash was half this much.\n\nIs it more secure? Sure, I guess, but who cares? How much money/energy do you really want to burn for this level of usage?",
+            "**If** we pass away some day? I'm a little more pessimistic about my chances of dying.",
+            "It's lost 95% of it's purchasing power (or more) but we have a lot more of it since then. We're not going around making like $20/week like we did then. There's obviously a whole other discussion on this topic. Perhaps an entire books worth. Or 10 books.\n\nThe main thing for an individual is that if you simply held your cash in a box in your home thus never earning interest, you'd suffer as a result of this devaluation/inflation. Otherwise if your money is making money for you, you're fine.",
+            "Save up $100 more and get yourself a good freezer. Buy fresh veggies in bulk, chop 'em up, freeze 'em ready to cook. Can also do whole healthy meal preps and freeze those. Same with meat. Same with bread.\n\nYou cut back significantly on food waste which in turn means you save money and have more food. You eat healthier which also pays dividends physically and mentally. And you save time on cooking since it's already pre-chopped and ready to throw in a pot/pan. And if you do meal preps you'll have entire meals ready if you know you're not up for cooking the next day.\n\nThat simple thing saves me at least $200 every month on food alone. Best investment I ever made.\n\nAnd with those savings you can then buy more Bitcoin. Profit! (or get rekt, whatevz)",
+            "Sad is that people that write original article dont double check what they wrote. Title is usually a click bait that have little to do with content.  What is even more sad is that 90% of articles are just copies of that poor written article.",
+            "A chief economist? How does he not loose his job over such a stupid claim. Its not even about Bitcoin but his rationale about why this is a pyramid scheme is border line retarded. His definition would pretty much engulf all comodities and many more assets as pyramid schemes :/ Simply stupid.",
+            "The article doesn't mention that Tron is Proof-of-Stake so, as a crypto, isn't consuming nearly the same amount of raw energy as Bitcoin and Ethereum. There's synergy in the more environmentally friendly crypto donating to Greta Thunberg."
+        ],
+        "upvotes": [
+            4,
+            17,
+            39,
+            1,
+            2,
+            2,
+            9,
+            2,
+            3,
+            2
+        ]
+    },
+    "MRPH": {
+        "full_name": "Morpheus.Network",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MTL": {
+        "full_name": "Metal",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "MUE": {
+        "full_name": "MonetaryUnit",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "NAV": {
+        "full_name": "NAVCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "NCASH": {
+        "full_name": "Nucleus Vision",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "NEO": {
+        "full_name": "Neo",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "NGC": {
+        "full_name": "Naga",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "NKN": {
+        "full_name": "NKN",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "NLC2": {
+        "full_name": "NoLimitCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "NLG": {
+        "full_name": "Gulden",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "NMR": {
+        "full_name": "Numeraire",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "NPXS": {
+        "full_name": "Pundi X",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "NXS": {
+        "full_name": "Nexus",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "NXT": {
+        "full_name": "NXT",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "OCEAN": {
+        "full_name": "Ocean Protocol",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "OK": {
+        "full_name": "OkCash",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "OMG": {
+        "full_name": "OmiseGO",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ONG": {
+        "full_name": "OntologyGas",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ONT": {
+        "full_name": "Ontology",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ORBS": {
+        "full_name": "Orbs",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "OST": {
+        "full_name": "Simple Token",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PAL": {
+        "full_name": "PAL Network",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PART": {
+        "full_name": "Particl",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PAX": {
+        "full_name": "Paxos Standard",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PAY": {
+        "full_name": "TenX Pay Token",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PI": {
+        "full_name": "PCHAIN",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PINK": {
+        "full_name": "PinkCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PIVX": {
+        "full_name": "Pivx",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PLA": {
+        "full_name": "PlayChip",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PLG": {
+        "full_name": "Pledge Coin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PMA": {
+        "full_name": "PumaPay",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "POT": {
+        "full_name": "PotCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PPC": {
+        "full_name": "Peercoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PROM": {
+        "full_name": "Prometeus",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PTON": {
+        "full_name": "Foresting",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PTOY": {
+        "full_name": "Patientory",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "PXL": {
+        "full_name": "Pixel",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "QNT": {
+        "full_name": "Quant",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "QRL": {
+        "full_name": "Quantum Resistant Ledger",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "QTUM": {
+        "full_name": "Qtum",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "RADS": {
+        "full_name": "Radium",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "RCN": {
+        "full_name": "Ripio Credit Network",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "RDD": {
+        "full_name": "ReddCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "REP": {
+        "full_name": "Augur",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "RFR": {
+        "full_name": "Refereum",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "RLC": {
+        "full_name": "iEx.ec",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "RVN": {
+        "full_name": "RavenCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SBD": {
+        "full_name": "SteemDollars",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SC": {
+        "full_name": "Siacoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SERV": {
+        "full_name": "Serve",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SIB": {
+        "full_name": "Sibcoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SIX": {
+        "full_name": "SixNetwork",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SLS": {
+        "full_name": "SaluS",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SLT": {
+        "full_name": "Smartlands",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SNT": {
+        "full_name": "Status Network Token",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SNX": {
+        "full_name": "Synthetix",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SOLVE": {
+        "full_name": "Solve.Care",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SPC": {
+        "full_name": "SpaceChain",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SPHR": {
+        "full_name": "Sphere",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SPIN": {
+        "full_name": "SPIN Protocol",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SPND": {
+        "full_name": "Spendcoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SRN": {
+        "full_name": "Sirin Token",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "STEEM": {
+        "full_name": "STEEM",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "STORJ": {
+        "full_name": "Storj",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "STORM": {
+        "full_name": "Storm",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "STPT": {
+        "full_name": "Standard Tokenization Protocol",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "STRAT": {
+        "full_name": "Stratis",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SUSD": {
+        "full_name": "Synthetix sUSD",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "SYS": {
+        "full_name": "SysCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "TEMCO": {
+        "full_name": "TEMCO",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "TRAC": {
+        "full_name": "OriginTrail",
+        "mentioned_ids": [
+            "fcv04mb"
+        ],
+        "mentioned_times": [
+            1578020747.0
+        ],
+        "sentiments": [
+            0.25
+        ],
+        "text": [
+            "Buy yourself 10,000 TRAC, run an OriginTrail node and later this year you will be glad you did."
+        ],
+        "upvotes": [
+            -9
+        ]
+    },
+    "TRX": {
+        "full_name": "TRON",
+        "mentioned_ids": [
+            "ej1uzd",
+            "fcv1b6c",
+            "fcv3xu7",
+            "fcuuzd8"
+        ],
+        "mentioned_times": [
+            1578017843.0,
+            1578021395.0,
+            1578022943.0,
+            1578017870.0
+        ],
+        "sentiments": [
+            0.0,
+            -0.55,
+            0.14884615384615385,
+            0.3
+        ],
+        "text": [
+            "Tron Founder Donates $1 Million to Greta Thunberg",
+            "And... this is why I will never own or use Tron again.  \n\nWhat an idiot.",
+            "The article doesn't mention that Tron is Proof-of-Stake so, as a crypto, isn't consuming nearly the same amount of raw energy as Bitcoin and Ethereum. There's synergy in the more environmentally friendly crypto donating to Greta Thunberg.",
+            "Whether you're a fan of Tron and Justin Sun or not (I'm not), this is a pretty cool thing to see."
+        ],
+        "upvotes": [
+            0,
+            10,
+            2,
+            -10
+        ]
+    },
+    "TSHP": {
+        "full_name": "12Ships",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "TTC": {
+        "full_name": "TTC",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "TUBE": {
+        "full_name": "BitTube",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "TUDA": {
+        "full_name": "Tutor's Diary",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "TUSD": {
+        "full_name": "TrueUSD",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "UBQ": {
+        "full_name": "Ubiq",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "UKG": {
+        "full_name": "UnikoinGold",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "UP": {
+        "full_name": "UpToken",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "UPP": {
+        "full_name": "Sentinel Protocol",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "URAC": {
+        "full_name": "Uranus",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "USDS": {
+        "full_name": "StableUSD",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "UTK": {
+        "full_name": "UTRUST",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "VBK": {
+        "full_name": "Veriblock",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "VDX": {
+        "full_name": "Vodi X",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "VEE": {
+        "full_name": "BLOCKv",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "VET": {
+        "full_name": "VeChain",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "VIA": {
+        "full_name": "ViaCoin ",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "VIB": {
+        "full_name": "Viberate",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "VITE": {
+        "full_name": "Vite",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "VRC": {
+        "full_name": "VeriCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "VTC": {
+        "full_name": "Vertcoin",
+        "mentioned_ids": [
+            "ej0mw5",
+            "fcuojj9",
+            "fcus26t"
+        ],
+        "mentioned_times": [
+            1578012536.0,
+            1578014160.0,
+            1578016155.0
+        ],
+        "sentiments": [
+            0.0,
+            -0.175,
+            0.27142857142857146
+        ],
+        "text": [
+            "Vertcoin Development Update \u2014 2019",
+            "Thats a name I havent heard in awhile.  I remember in 2017 nicehash (I think?) got hacked for a few days and the vertcoin network was basically limping due to lack of miners.  They incentivized miners pretty well with rewards.  Mined like 30 bucks on my desktop pc in a few days.  2017 was a crazy year.",
+            "> Vertcoin 51% attack\nOn Sunday, 1 December 2019 15:19:47 GMT 603 blocks were removed from the VTC main chain and replaced by 553 attacker blocks. We note that 600 blocks is the current confirmation requirement for VTC on Bittrex. There were 5 double-spent outputs in which ~ 125 VTC (~$29) was redirected. \n\nLucky the attacker was nice enough to only redirect $29 lol"
+        ],
+        "upvotes": [
+            0,
+            4,
+            4
+        ]
+    },
+    "WAVES": {
+        "full_name": "Waves",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "WAXP": {
+        "full_name": "WAXP",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "WGP": {
+        "full_name": "W Green Pay",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XDN": {
+        "full_name": "DigitalNote",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XEL": {
+        "full_name": "XEL",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XEM": {
+        "full_name": "NEM",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XHV": {
+        "full_name": "Haven Protocol",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XLM": {
+        "full_name": "Lumen",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XMR": {
+        "full_name": "Monero",
+        "mentioned_ids": [
+            "ej26nb"
+        ],
+        "mentioned_times": [
+            1578019240.0
+        ],
+        "sentiments": [
+            -0.4
+        ],
+        "text": [
+            "Monero is Plagued by Poor Journalism"
+        ],
+        "upvotes": [
+            0
+        ]
+    },
+    "XMY": {
+        "full_name": "Myriad",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XRP": {
+        "full_name": "XRP",
+        "mentioned_ids": [
+            "fcwx295"
+        ],
+        "mentioned_times": [
+            1578070091.0
+        ],
+        "sentiments": [
+            0.0
+        ],
+        "text": [
+            "Yeah I'm totally out, XRP solves all this bs"
+        ],
+        "upvotes": [
+            -2
+        ]
+    },
+    "XSR": {
+        "full_name": "Xensor",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XST": {
+        "full_name": "Stealth",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XTP": {
+        "full_name": "Tap",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XTZ": {
+        "full_name": "Tezos",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XVG": {
+        "full_name": "Verge",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "XZC": {
+        "full_name": "ZCoin",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ZEC": {
+        "full_name": "Zcash",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ZEN": {
+        "full_name": "Horizen",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ZIL": {
+        "full_name": "Zilliqa",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "ZRX": {
+        "full_name": "0x Protocol",
+        "mentioned_ids": [],
+        "mentioned_times": [],
+        "sentiments": [],
+        "text": [],
+        "upvotes": []
+    },
+    "submissions": [
+        "ej4vzm",
+        "eizc7s",
+        "ej7622",
+        "ej1h9h",
+        "ej4clo",
+        "ej1e55",
+        "eizwdc",
+        "eiy212",
+        "ej5te6",
+        "ej0hwc",
+        "ej6vzv",
+        "ejb5oe",
+        "ej7o5t",
+        "ej6i48",
+        "ej6v5a",
+        "ej5xwb",
+        "ej5s76",
+        "ej2mjl",
+        "ej199j",
+        "ej6u3n",
+        "ej210a",
+        "ej1rrn",
+        "ej18zs",
+        "eiy4vl",
+        "ej6tbw",
+        "ej6asc",
+        "ej1ttx",
+        "ejb1f9",
+        "ej1n1e",
+        "ej1d6e",
+        "ej0mw5",
+        "ej6tmg",
+        "ej1qv8",
+        "ej2kpa",
+        "ej1af0",
+        "ej26nb",
+        "eixwf3",
+        "ej1uzd",
+        "ej1kko",
+        "ej4vzm",
+        "eizc7s",
+        "ej7622",
+        "ej1h9h",
+        "ej4clo",
+        "ej1e55",
+        "eizwdc",
+        "eiy212",
+        "ej5te6",
+        "ej0hwc",
+        "ej6vzv",
+        "ejb5oe",
+        "ej7o5t",
+        "ej6i48",
+        "ej6v5a",
+        "ej5xwb",
+        "ej5s76",
+        "ej2mjl",
+        "ej199j",
+        "ej6u3n",
+        "ej210a",
+        "ej1rrn",
+        "ej18zs",
+        "eiy4vl",
+        "ej6tbw",
+        "ej6asc",
+        "ej1ttx",
+        "ejb1f9",
+        "ej1n1e",
+        "ej1d6e",
+        "ej0mw5",
+        "ej6tmg",
+        "ej1qv8",
+        "ej2kpa",
+        "ej1af0",
+        "ej26nb",
+        "eixwf3",
+        "ej1uzd",
+        "ej1kko",
+        "ej4vzm",
+        "eizc7s",
+        "ej7622",
+        "ej1h9h",
+        "ej4clo",
+        "ej1e55",
+        "eizwdc",
+        "eiy212",
+        "ej5te6",
+        "ej0hwc",
+        "ej6vzv",
+        "ejb5oe",
+        "ej7o5t",
+        "ej6i48",
+        "ej6v5a",
+        "ej5xwb",
+        "ej5s76",
+        "ej2mjl",
+        "ej199j",
+        "ej6u3n",
+        "ej210a",
+        "ej1rrn",
+        "ej18zs",
+        "eiy4vl",
+        "ej6tbw",
+        "ej6asc",
+        "ej1ttx",
+        "ejb1f9",
+        "ej1n1e",
+        "ej1d6e",
+        "ej0mw5",
+        "ej6tmg",
+        "ej1qv8",
+        "ej2kpa",
+        "ej1af0",
+        "ej26nb",
+        "eixwf3",
+        "ej1uzd",
+        "ej1kko",
+        "ej4vzm",
+        "eizc7s",
+        "ej7622",
+        "ej1h9h",
+        "ej4clo",
+        "ej1e55",
+        "eizwdc",
+        "eiy212",
+        "ej5te6",
+        "ej0hwc",
+        "ej6vzv",
+        "ejb5oe",
+        "ej7o5t",
+        "ej6i48",
+        "ej6v5a",
+        "ej5xwb",
+        "ej5s76",
+        "ej2mjl",
+        "ej199j",
+        "ej6u3n",
+        "ej210a",
+        "ej1rrn",
+        "ej18zs",
+        "eiy4vl",
+        "ej6tbw",
+        "ej6asc",
+        "ej1ttx",
+        "ejb1f9",
+        "ej1n1e",
+        "ej1d6e",
+        "ej0mw5",
+        "ej6tmg",
+        "ej1qv8",
+        "ej2kpa",
+        "ej1af0",
+        "ej26nb",
+        "eixwf3",
+        "ej1uzd",
+        "ej1kko"
+    ]
+}

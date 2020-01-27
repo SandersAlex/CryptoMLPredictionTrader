@@ -1,0 +1,135 @@
+*********************** MORE ***********************
+39 : 13:10:49 01/02/2020 : From Skeptical To Bitcoiner: The 7-Steps Journey Followed By More And More People
+
+17 : 00:39:44 01/03/2020 : Bwahahahahhaa   I enjoy this more than I should.  F Roger.
+
+9 : 22:16:22 01/02/2020 : Save up $100 more and get yourself a good freezer. Buy fresh veggies in bulk, chop 'em up, freeze 'em ready to cook. Can also do whole healthy meal preps and freeze those. Same with meat. Same with bread.
+
+You cut back significantly on food waste which in turn means you save money and have more food. You eat healthier which also pays dividends physically and mentally. And you save time on cooking since it's already pre-chopped and ready to throw in a pot/pan. And if you do meal preps you'll have entire meals ready if you know you're not up for cooking the next day.
+
+That simple thing saves me at least $200 every month on food alone. Best investment I ever made.
+
+And with those savings you can then buy more Bitcoin. Profit! (or get rekt, whatevz)
+
+4 : 11:22:34 01/03/2020 : r/btc is one of the most infuriating subs on the whore of Reddit
+
+I had an almost ten year old account, which had never been banned from any sub. until I started asking questions in r/btc. 
+
+ended up getting banned there pretty quickly for asking some simple questions and not conforming to the general consensus. 
+
+I wanted to know more about BCH before taking the dive and investing. but after spending time on the sub it became clear that it's just a scam.
+
+3 : 17:22:14 01/02/2020 : A chief economist? How does he not loose his job over such a stupid claim. Its not even about Bitcoin but his rationale about why this is a pyramid scheme is border line retarded. His definition would pretty much engulf all comodities and many more assets as pyramid schemes :/ Simply stupid.
+
+2 : 06:51:30 01/03/2020 : **If** we pass away some day? I'm a little more pessimistic about my chances of dying.
+
+2 : 18:03:59 01/02/2020 : It's lost 95% of it's purchasing power (or more) but we have a lot more of it since then. We're not going around making like $20/week like we did then. There's obviously a whole other discussion on this topic. Perhaps an entire books worth. Or 10 books.
+
+The main thing for an individual is that if you simply held your cash in a box in your home thus never earning interest, you'd suffer as a result of this devaluation/inflation. Otherwise if your money is making money for you, you're fine.
+
+2 : 19:29:03 01/02/2020 : Sad is that people that write original article dont double check what they wrote. Title is usually a click bait that have little to do with content.  What is even more sad is that 90% of articles are just copies of that poor written article.
+
+2 : 19:42:23 01/02/2020 : The article doesn't mention that Tron is Proof-of-Stake so, as a crypto, isn't consuming nearly the same amount of raw energy as Bitcoin and Ethereum. There's synergy in the more environmentally friendly crypto donating to Greta Thunberg.
+
+1 : 06:12:12 01/03/2020 : Unsustainable wasted energy.  The networks really works no better than it did when hash was half this much.
+
+Is it more secure? Sure, I guess, but who cares? How much money/energy do you really want to burn for this level of usage?
+
+
+
+*********************** ETH ***********************
+11 : 00:00:29 01/03/2020 : I figured most crypto claims about actual transactions in e-commerce would be fraudulent.
+
+Let's not kid ourselves, no one is using this shit.
+
+And who even uses Bee-Cash for anything these days? Isn't this avandonware trash sort of like Litecoin and Ethereum Classic?
+
+3 : 02:27:19 01/03/2020 : If you want a centralized solution, you could just implement an e-mail dead man switch using this service:  [https://www.deadmansswitch.net/](https://www.deadmansswitch.net/) 
+
+But, since this is a crypto subreddit and we value decentralization, the only prototype I've seen lately is Killcord [https://github.com/nomasters/killcord](https://github.com/nomasters/killcord).  It uses Ethereum and IPFS to store a secret, and release it if the owner doesn't check in
+
+1 : 06:04:22 01/03/2020 : I'm taking my Bitcoin with me. They recognize only Bitcoin in heaven. Ethereum users can use their coins in the other place  
+I'll be buying all the bling for my angel wings  
+
+> stored on google drive
+
+Unsafe to rely on Google not to lose your files  
+
+> hidden microsd file
+
+Flash memory is unreliable
+
+0 : 00:05:10 01/03/2020 : Coinbase Patents = Evil? | Bitcoin Credit Card | MetaMask Wins! | Ethereum Fork | Much More!
+
+
+
+*********************** TRX ***********************
+10 : 19:16:35 01/02/2020 : And... this is why I will never own or use Tron again.  
+
+What an idiot.
+
+2 : 19:42:23 01/02/2020 : The article doesn't mention that Tron is Proof-of-Stake so, as a crypto, isn't consuming nearly the same amount of raw energy as Bitcoin and Ethereum. There's synergy in the more environmentally friendly crypto donating to Greta Thunberg.
+
+0 : 18:17:23 01/02/2020 : Tron Founder Donates $1 Million to Greta Thunberg
+
+-10 : 18:17:50 01/02/2020 : Whether you're a fan of Tron and Justin Sun or not (I'm not), this is a pretty cool thing to see.
+
+
+
+*********************** DTA ***********************
+1 : 23:27:34 01/02/2020 : Streamr is building the open source infrastructure for anyone to distribute & trade information in a real-time data economy. Discover the pub/sub messaging Network, data Marketplace, & Streamr Core app today
+
+0 : 17:41:49 01/02/2020 : Getting started with Coygo's cryptocurrency market data tools
+
+-2 : 02:05:54 01/03/2020 : The source of the data included in reports is TravelbyBit. So if TravelbyBit cannot even get straight within themselves what their data is, this is not making the company look very competent.
+
+TravelbyBit has a recorded history of manipulating their own data as seen here. 
+So it would not surprise me if they've done the same here again. http://web.archive.org/web/20180804084701/https://coingeek.com/bitcoin-bch-spent-cryptocurrency-australias-crypto-friendly-airport/
+
+
+
+*********************** VTC ***********************
+4 : 17:16:00 01/02/2020 : Thats a name I havent heard in awhile.  I remember in 2017 nicehash (I think?) got hacked for a few days and the vertcoin network was basically limping due to lack of miners.  They incentivized miners pretty well with rewards.  Mined like 30 bucks on my desktop pc in a few days.  2017 was a crazy year.
+
+4 : 17:49:15 01/02/2020 : > Vertcoin 51% attack
+On Sunday, 1 December 2019 15:19:47 GMT 603 blocks were removed from the VTC main chain and replaced by 553 attacker blocks. We note that 600 blocks is the current confirmation requirement for VTC on Bittrex. There were 5 double-spent outputs in which ~ 125 VTC (~$29) was redirected. 
+
+Lucky the attacker was nice enough to only redirect $29 lol
+
+0 : 16:48:56 01/02/2020 : Vertcoin Development Update — 2019
+
+
+
+*********************** BLOCK ***********************
+11 : 19:57:19 01/02/2020 : I wonder if we'll ever see a decentralized APP marketplace for mobile phones? With nodes (users) being able to flag harmful content, and possibly be rewarded for it. This would eliminate Google's monopoly.   
+Same as Decentralized Exchanges like Blocknet who could theoretically out compete a lot of exchanges in the future, like Polo, Bittrex etc, IF enough people decided to do move their trading habbits over there.   
+
+
+Sorry about my rant, just thinking out loud here, haha
+
+
+
+*********************** DGB ***********************
+-9 : 01:33:41 01/03/2020 : Is digibyte any good? I keep seeing people talk about it.
+
+
+
+*********************** EOS ***********************
+-1 : 23:30:48 01/02/2020 : Reminds me of how I've gotten banned (silenced) from r/Metamask for "spreading fud" and what not. Happened both times I commented there, first time re having lost my eos and second time sharing my experience.. Not that I can't live without it but yeah, I think it smells over there, too.
+
+
+
+*********************** LTC ***********************
+11 : 00:00:29 01/03/2020 : I figured most crypto claims about actual transactions in e-commerce would be fraudulent.
+
+Let's not kid ourselves, no one is using this shit.
+
+And who even uses Bee-Cash for anything these days? Isn't this avandonware trash sort of like Litecoin and Ethereum Classic?
+
+
+
+*********************** TRAC ***********************
+-9 : 19:05:47 01/02/2020 : Buy yourself 10,000 TRAC, run an OriginTrail node and later this year you will be glad you did.
+
+
+
